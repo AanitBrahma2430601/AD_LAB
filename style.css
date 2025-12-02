@@ -1,0 +1,51 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header section */
+.header {
+    text-align: center;
+    padding: 25px;
+    background-color: #004aad;
+    color: white;
+}
+
+.profile-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 10px;
+}
+
+/* Section styling */
+.section {
+    padding: 20px 40px;
+}
+
+.section h2 {
+    color: #004aad;
+    border-left: 4px solid #004aad;
+    padding-left: 10px;
+}
+
+/* Links */
+a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+ul {
+    line-height: 1.7;
+}
